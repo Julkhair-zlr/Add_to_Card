@@ -18,6 +18,6 @@ Exciting news! 🚀 I've just wrapped up a project that makes managing your groc
 
 I'm thrilled to share this project, as it brings simplicity and efficiency to the grocery list game. It's not just an app; it's a tailored, mobile-friendly solution for anyone who wants a hassle-free grocery planning experience.
 
-## 🙌 Special Thanks:
+## 🙌 Special Thanks: 
 
 #HTML #CSS #JavaScript #Firebase #MobileApp #WebDevelopment #GroceryList #ProjectShowcase
